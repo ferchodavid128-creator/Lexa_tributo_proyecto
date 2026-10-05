@@ -6,7 +6,7 @@ body{
     padding: 0;
     background-color: #f4f4f4;
     color: #333333;
-
+}
     /*contendeor1: cabecera----*/
     .cabecera-principal{
         background-color: #1a1a1a;
@@ -85,7 +85,7 @@ body{
 /*---contenedor 3:Galeria de imagenes---*/
 .galeria-imagenes {
     max-width:800px;
-    margin: 30 px auto;
+    margin: 30px auto;
     padding:20px;
     background-color:#ffffff;
     border-radius: 5px;
